@@ -1,10 +1,10 @@
 # 什么值得买每日签到脚本
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/easypickings/smzdm_bot">
+    <img src="https://img.shields.io/github/license/easypickings/smzdm">
     <img src="https://img.shields.io/badge/python-v3.9-orange"/>
-    <img src="https://img.shields.io/github/last-commit/easypickings/smzdm_bot">
-    <img src="https://img.shields.io/github/languages/code-size/easypickings/smzdm_bot">
+    <img src="https://img.shields.io/github/last-commit/easypickings/smzdm">
+    <img src="https://img.shields.io/github/languages/code-size/easypickings/smzdm">
 </p>
 
 ## 1. 实现功能
