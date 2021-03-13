@@ -15,7 +15,7 @@ def pushplus(title, content, token, template='html'):
     Returns:
         JSON格式的请求响应内容.
     '''
-    url = 'http://pushplus.hxtrip.com/send'
+    url = 'https://www.pushplus.plus/send'
     body = {
         'token': token,
         'title': title,

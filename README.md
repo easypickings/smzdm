@@ -15,7 +15,7 @@
 ## 2. 使用方法
 1. Fork[此仓库项目](https://github.com/easypickings/smzdm_bot)>点击右上角Fork按钮即可, 欢迎点`star`~
 2. Secret新增`COOKIE`, 填入[什么值得买官网](https://www.smzdm.com/)获取的Cookie信息, [详见](#31-cookie获取方法)
-3. (可选) Secret新增`PUSH_PLUS_TOKEN`用于推送通知, [详见](https://pushplus.hxtrip.com/index)
+3. (可选) Secret新增`PUSH_PLUS_TOKEN`用于推送通知, [详见](https://www.pushplus.plus/)
 4. Fork后须手动开启GitHub Actions
 
 ## 3. 其它
