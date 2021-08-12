@@ -19,7 +19,8 @@ class SMZDM_Bot(object):
         Args:
             cookie: 什么值得买登录cookie.
         '''
-        self.session.headers['Cookie'] = cookie
+        self.session.headers['Cookie'] =cookie.encode('utf-8')
+
 
     def checkin(self):
         '''签到函数.
